@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/juxx-pc/Documents/recursoAndroid/clarin/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/juxx-pc/Documents/recursoAndroid/clarin/app/src/main/res/layout/activity_home.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/juxx-pc/Documents/recursoAndroid/clarin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/juxx-pc/Documents/recursoAndroid/clarin/app/src/main/res/menu/menu_navegar.xml" value="0.21" />
       </map>
     </option>
   </component>
